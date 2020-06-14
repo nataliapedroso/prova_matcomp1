@@ -132,6 +132,6 @@ plt.figure(figsize=(20, 14))
 psi, amax, amin, a0 = mfdfa.makemfdfa(y, True)
 
 ############################################# cálculo do delta alpha e A alpha
-print("Alpha={0:.3}, 2*Alfa-1={1:.3}, Beta={2:.3}, Delta Alpha={3:.3}, \
+print("Alpha={0:.3}, Beta={2:.3}, Delta Alpha={3:.3}, \
       Alpha0={4:.3}, Aalpha={5:.3},"
-      .format(alfa, 2*alfa-1, beta, (amax-amin), a0, (a0-amin)/(amax-a0)))
+      .format(alfa, beta, (amax-amin), a0, (a0-amin)/(amax-a0)))
