@@ -68,7 +68,7 @@ date=[]
 
 # Lendo dados do arquivo
 for line in fread:
-    if "Mar 9" in line and country in line:
+    if "Mar 10" in line and country in line:
         break
 
 for line in fread:
