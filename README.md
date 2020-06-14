@@ -20,7 +20,7 @@ Obtém o espectro de singularidades (plot 5);
 
 Calcula o delta alpha e o A alpha;
 
-Imprime os valores de alpha, beta, delta alpha, alpha zero e A alpha: Alpha=1.67, Beta=2.35, Delta Alpha=0.969,       Alpha0=1.86, Aalpha=1.05.
+Imprime os valores de alpha, beta, delta alpha, alpha zero e A alpha: Alpha=1.67, Beta=2.35, Delta Alpha=0.969, Alpha0=1.86, Aalpha=1.05.
 
 # funcs_prova.py e mfdfa_prova.py
 Arquivos de módulos com funções usados na parte A.
