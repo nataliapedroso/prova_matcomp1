@@ -31,3 +31,6 @@ Plota o gráfico com g(t) e s(t) para os dois espectros.
 
 # funcs_prova.py e mfdfa_prova.py
 Arquivos de módulos com funções usados na parte A.
+
+# daily-cases-covid-19.csv
+Arquivo de dados.
