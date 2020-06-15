@@ -23,7 +23,7 @@ Calcula o delta alpha e o A alpha;
 Imprime os valores de alpha, beta, delta alpha, alpha zero e A alpha: Alpha=1.67, Beta=2.35, Delta Alpha=0.969, Alpha0=1.86, Aalpha=1.05.
 
 # parteB_prova.py
-Implementação das equações do moedlo IMC-SF-COVID19 e calcula os valores de g e s para os próximos 20 dias;
+Implementação das equações do modelo IMC-SF-COVID19. Calcula os valores de g e s para os próximos 20 dias;
 
 Considera dois espectros de pesos: (0.5, 0.45, 0.05) e (0.7, 0.25, 0.05);
 
